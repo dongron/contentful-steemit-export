@@ -1,1 +1,8 @@
+# OS
 .DS_Store
+
+# editor
+./vscode
+
+#app
+./node_modules
